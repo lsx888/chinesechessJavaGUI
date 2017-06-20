@@ -1,7 +1,7 @@
 package chinesechess.common;
 
 /**
- * 中国象棋游戏的功能接口
+ * 中国象棋游戏的功能接口..
  * @author lisx
  * @2017年5月19日
  */
